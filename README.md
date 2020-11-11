@@ -6,4 +6,4 @@ This directory contains the summary statistics produced in the Tractor manuscrip
 Seperate output files are provided for the results for Total Cholesterol for AFR and EUR ancestry backgrounds as produced by the joint-analysis GWAS model as described in the paper. We additionally provide code used to generate the results presented in that manuscript for full transparency.
 
 
-For the Tractor pipeline and software, please see the sister repo https://github.com/eatkinson/Tractor and wiki.
+For the Tractor pipeline and software, please see the sister repo https://github.com/eatkinson/Tractor alongside a use wiki (https://github.com/eatkinson/Tractor/wiki).
