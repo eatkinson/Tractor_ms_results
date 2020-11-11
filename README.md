@@ -1,4 +1,4 @@
-# Tractor_ms_results
+# Tractor Manuscript Results and Code
 Results and code used to produce results in Atkinson et al. (2020)
 
 This directory contains the summary statistics produced in the Tractor manuscript, "Tractor: A framework allowing for improved inclusion of admixed individuals in large-scale association studies", which is on bioRxiv here: https://www.biorxiv.org/content/10.1101/2020.05.17.100727v1.
