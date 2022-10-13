@@ -3,7 +3,7 @@
 #$ -cwd
 
 library(qqman)
-phenoname = 'TG.anc1'
+phenoname = 'TC'
 
 plot_man <- function(phenoname) {
   phenoname.man <- manhattan(na.omit(read.table(paste(phenoname, '.CI.assoc.linear', sep=""), header=T)), chr = "CHR", bp = "BP", p = "P", snp = "SNP",
